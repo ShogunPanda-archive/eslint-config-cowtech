@@ -1,3 +1,7 @@
+### 2017-06-28 / 3.19.1
+
+* Added deprecation notice.
+
 ### 2017-04-26 / 3.19.0
 
 * Updated to ESLint 3.19, which now is a explicit dependency.
